@@ -1,0 +1,5 @@
+package net.viralpatel.contact.service;
+
+public class ContactService {
+
+}

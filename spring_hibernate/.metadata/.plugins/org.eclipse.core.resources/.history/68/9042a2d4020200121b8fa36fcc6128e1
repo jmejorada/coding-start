@@ -1,0 +1,5 @@
+package net.viralpatel.contact.dao;
+
+public class ContactDAO {
+
+}

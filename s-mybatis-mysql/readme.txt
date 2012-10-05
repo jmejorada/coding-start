@@ -1,0 +1,1 @@
+spring, mybatis/ibatis, mysql, sql ddl

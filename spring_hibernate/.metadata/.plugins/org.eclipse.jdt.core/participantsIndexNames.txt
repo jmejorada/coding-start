@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/home/jp/dev/spring_hibernate/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2442487783.index
+/Spring3HibernateMaven/src/main/java
+/home/jp/dev/spring_hibernate/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2986486796.index
+/MavenWeb/src/main/java

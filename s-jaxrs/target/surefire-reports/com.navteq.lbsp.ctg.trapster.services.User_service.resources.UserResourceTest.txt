@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.navteq.lbsp.ctg.trapster.services.User_service.resources.UserResourceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.835 sec

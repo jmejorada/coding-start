@@ -1,0 +1,19 @@
+
+public class test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println(printBackwards("I hope I pass this difficult quiz"));
+	}
+	
+	public static String printBackwards(String input){
+		
+		
+		return input;
+	}
+
+}

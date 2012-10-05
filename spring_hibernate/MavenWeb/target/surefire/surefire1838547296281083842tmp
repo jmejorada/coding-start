@@ -1,0 +1,5 @@
+#surefire
+#Tue Sep 18 22:55:09 EDT 2012
+user.dir=/home/jp/dev/spring_hibernate/MavenWeb
+localRepository=/home/jp/.m2/repository
+basedir=/home/jp/dev/spring_hibernate/MavenWeb
